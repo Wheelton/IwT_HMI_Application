@@ -2,7 +2,7 @@
   "CDIVersion": "6745.0474.1094.3",
   "IASVersion": "23.1.10000",
   "ApplicationName": "Interfejsy_03",
-  "DBChangeLog": 748,
+  "DBChangeLog": 765,
   "UniqueToolsetId": 1768,
   "UniqueSymbolId": 1462,
   "IncludeAllGraphics": false,
@@ -20,7 +20,7 @@
       "CategoryId": 26,
       "IsProtected": false,
       "MyDIName": "",
-      "ModifiedTimeStamp": 133926521412158346,
+      "ModifiedTimeStamp": 133926566409679798,
       "IsCheckedOut": false
     },
     "802": {
