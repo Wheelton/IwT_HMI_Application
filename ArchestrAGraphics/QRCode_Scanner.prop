@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 1,
+  "VisualElementID": 809,
+  "GObjectId": 809,
+  "HelpId": "",
+  "VisualElementName": "QRCode_Scanner",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 0,
+  "VisualElementType": "Widget",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": "",
+  "ExternalName": "",
+  "EditorSettings": ""
+}

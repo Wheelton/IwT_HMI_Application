@@ -1,0 +1,25 @@
+{
+  "GraphicVersion": 42491001,
+  "VisualElementID": 1426,
+  "GObjectId": 1426,
+  "HelpId": "",
+  "VisualElementName": "SA_SmallFlowTracker",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419850175833,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [
+    1
+  ],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

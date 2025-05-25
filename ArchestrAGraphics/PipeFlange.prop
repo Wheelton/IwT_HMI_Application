@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 31,
+  "VisualElementID": 1206,
+  "GObjectId": 1206,
+  "HelpId": "",
+  "VisualElementName": "PipeFlange",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419782164193,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

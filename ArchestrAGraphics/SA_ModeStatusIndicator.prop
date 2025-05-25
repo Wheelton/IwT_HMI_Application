@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 42491000,
+  "VisualElementID": 1384,
+  "GObjectId": 1384,
+  "HelpId": "",
+  "VisualElementName": "SA_ModeStatusIndicator",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419834805115,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

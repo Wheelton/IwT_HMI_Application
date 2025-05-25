@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 11,
+  "VisualElementID": 1124,
+  "GObjectId": 1124,
+  "HelpId": "",
+  "VisualElementName": "ISA_CrystallizerPachuca",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419764369473,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

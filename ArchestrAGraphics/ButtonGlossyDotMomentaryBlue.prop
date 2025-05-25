@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 23,
+  "VisualElementID": 858,
+  "GObjectId": 858,
+  "HelpId": "",
+  "VisualElementName": "ButtonGlossyDotMomentaryBlue",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419682517316,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 42491001,
+  "VisualElementID": 1438,
+  "GObjectId": 1438,
+  "HelpId": "",
+  "VisualElementName": "SA_BulletGraph",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419853100806,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

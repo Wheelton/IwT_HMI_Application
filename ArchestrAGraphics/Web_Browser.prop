@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 1,
+  "VisualElementID": 811,
+  "GObjectId": 811,
+  "HelpId": "",
+  "VisualElementName": "Web_Browser",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 0,
+  "VisualElementType": "Widget",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": "",
+  "ExternalName": "",
+  "EditorSettings": ""
+}

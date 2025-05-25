@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 20,
+  "VisualElementID": 1036,
+  "GObjectId": 1036,
+  "HelpId": "",
+  "VisualElementName": "ISA_Valve2WayActuator",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419746303686,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

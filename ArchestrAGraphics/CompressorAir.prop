@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 26,
+  "VisualElementID": 928,
+  "GObjectId": 928,
+  "HelpId": "",
+  "VisualElementName": "CompressorAir",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419723047618,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

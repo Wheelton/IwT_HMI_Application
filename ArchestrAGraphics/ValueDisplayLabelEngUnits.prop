@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 8,
+  "VisualElementID": 1324,
+  "GObjectId": 1324,
+  "HelpId": "",
+  "VisualElementName": "ValueDisplayLabelEngUnits",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419816430338,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

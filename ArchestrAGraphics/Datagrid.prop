@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 1,
+  "VisualElementID": 807,
+  "GObjectId": 807,
+  "HelpId": "",
+  "VisualElementName": "Datagrid",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 0,
+  "VisualElementType": "Widget",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": "",
+  "ExternalName": "",
+  "EditorSettings": ""
+}

@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 21,
+  "VisualElementID": 878,
+  "GObjectId": 878,
+  "HelpId": "",
+  "VisualElementName": "ButtonKeyBlack",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419698103437,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

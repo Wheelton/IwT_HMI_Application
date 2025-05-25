@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 30,
+  "VisualElementID": 1296,
+  "GObjectId": 1296,
+  "HelpId": "",
+  "VisualElementName": "ValveSSBallHorz",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419810365079,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 32,
+  "VisualElementID": 1210,
+  "GObjectId": 1210,
+  "HelpId": "",
+  "VisualElementName": "PipeSSElbowLeftUp",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419783029864,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

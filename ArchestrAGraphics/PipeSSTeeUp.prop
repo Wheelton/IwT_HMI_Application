@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 19,
+  "VisualElementID": 1223,
+  "GObjectId": 1223,
+  "HelpId": "",
+  "VisualElementName": "PipeSSTeeUp",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419787504536,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

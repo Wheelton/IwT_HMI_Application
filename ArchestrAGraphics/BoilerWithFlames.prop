@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 37,
+  "VisualElementID": 834,
+  "GObjectId": 834,
+  "HelpId": "",
+  "VisualElementName": "BoilerWithFlames",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419671442989,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

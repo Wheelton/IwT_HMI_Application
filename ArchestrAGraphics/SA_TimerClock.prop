@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 42491000,
+  "VisualElementID": 1423,
+  "GObjectId": 1423,
+  "HelpId": "",
+  "VisualElementName": "SA_TimerClock",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419849483611,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

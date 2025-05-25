@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 14,
+  "VisualElementID": 1070,
+  "GObjectId": 1070,
+  "HelpId": "",
+  "VisualElementName": "ISA_Valve2WayDiaphram",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419753414519,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

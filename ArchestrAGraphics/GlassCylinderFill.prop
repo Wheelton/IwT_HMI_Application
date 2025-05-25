@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 73,
+  "VisualElementID": 959,
+  "GObjectId": 959,
+  "HelpId": "",
+  "VisualElementName": "GlassCylinderFill",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419728894410,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

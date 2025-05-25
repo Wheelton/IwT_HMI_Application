@@ -1,0 +1,25 @@
+{
+  "GraphicVersion": 20,
+  "VisualElementID": 940,
+  "GObjectId": 940,
+  "HelpId": "",
+  "VisualElementName": "DigitalDisplay4",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419725179942,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [
+    1
+  ],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

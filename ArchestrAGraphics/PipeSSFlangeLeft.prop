@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 23,
+  "VisualElementID": 1214,
+  "GObjectId": 1214,
+  "HelpId": "",
+  "VisualElementName": "PipeSSFlangeLeft",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419783844149,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

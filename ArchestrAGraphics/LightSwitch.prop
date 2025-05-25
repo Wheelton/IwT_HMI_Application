@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 24,
+  "VisualElementID": 1176,
+  "GObjectId": 1176,
+  "HelpId": "",
+  "VisualElementName": "LightSwitch",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419775879147,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

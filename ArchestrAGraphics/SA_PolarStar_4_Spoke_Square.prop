@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 42491001,
+  "VisualElementID": 1399,
+  "GObjectId": 1399,
+  "HelpId": "",
+  "VisualElementName": "SA_PolarStar_4_Spoke_Square",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419838155858,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

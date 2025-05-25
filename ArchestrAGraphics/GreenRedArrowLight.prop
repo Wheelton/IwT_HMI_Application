@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 41,
+  "VisualElementID": 960,
+  "GObjectId": 960,
+  "HelpId": "",
+  "VisualElementName": "GreenRedArrowLight",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419729079671,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

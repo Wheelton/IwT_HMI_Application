@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 61,
+  "VisualElementID": 1225,
+  "GObjectId": 1225,
+  "HelpId": "",
+  "VisualElementName": "PumpCentrifugal",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419789304505,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

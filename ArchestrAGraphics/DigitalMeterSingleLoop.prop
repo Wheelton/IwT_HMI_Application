@@ -1,0 +1,25 @@
+{
+  "GraphicVersion": 54,
+  "VisualElementID": 946,
+  "GObjectId": 946,
+  "HelpId": "",
+  "VisualElementName": "DigitalMeterSingleLoop",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419726419553,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [
+    1
+  ],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

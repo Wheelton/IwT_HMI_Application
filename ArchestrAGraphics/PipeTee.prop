@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 29,
+  "VisualElementID": 1224,
+  "GObjectId": 1224,
+  "HelpId": "",
+  "VisualElementName": "PipeTee",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419788284905,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

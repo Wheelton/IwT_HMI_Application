@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 42491000,
+  "VisualElementID": 1392,
+  "GObjectId": 1392,
+  "HelpId": "",
+  "VisualElementName": "SA_FieldHandswitch",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419836545536,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-16"?>
+<References xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reference Name="Me.PV.EngUnitsRangeMin" CPName="PenA_RangeFullScaleMin" Type="UDA Ref Use" />
+  <Reference Name="Me.PV.EngUnitsRangeMax" CPName="PenA_RangeFullScaleMax" Type="UDA Ref Use" />
+  <Reference Name="Me.PV.AlarmMostUrgentInAlarm" CPName="PenA_AlarmMostUrgentInAlarm" Type="UDA Ref Use" />
+  <Reference Name="Me.PV.AlarmMostUrgentAcked" CPName="PenA_AlarmMostUrgentAcked" Type="UDA Ref Use" />
+  <Reference Name="Me.PV.AlarmMostUrgentMode" CPName="PenA_AlarmMostUrgentMode" Type="UDA Ref Use" />
+  <Reference Name="Me.PV.AlarmMostUrgentSeverity" CPName="PenA_AlarmMostUrgentSeverity" Type="UDA Ref Use" />
+  <Reference Name="Me.PV" CPName="PenA" Type="UDA Ref Use" />
+  <Reference Name="Me.PV2" CPName="PenB" Type="UDA Ref Use" />
+  <Reference Name="Me.PV3" CPName="PenC" Type="UDA Ref Use" />
+  <Reference Name="Me.PV4" CPName="PenD" Type="UDA Ref Use" />
+  <Reference Name="Me.PV2.EngUnitsRangeMin" CPName="PenB_RangeFullScaleMin" Type="UDA Ref Use" />
+  <Reference Name="Me.PV2.EngUnitsRangeMax" CPName="PenB_RangeFullScaleMax" Type="UDA Ref Use" />
+  <Reference Name="Me.PV3.EngUnitsRangeMax" CPName="PenC_RangeFullScaleMax" Type="UDA Ref Use" />
+  <Reference Name="Me.PV3.EngUnitsRangeMin" CPName="PenC_RangeFullScaleMin" Type="UDA Ref Use" />
+  <Reference Name="Me.PV4.EngUnitsRangeMax" CPName="PenD_RangeFullScaleMax" Type="UDA Ref Use" />
+  <Reference Name="Me.PV4.EngUnitsRangeMin" CPName="PenD_RangeFullScaleMin" Type="UDA Ref Use" />
+  <Reference Name="Me.PV2.AlarmMostUrgentAcked" CPName="PenB_AlarmMostUrgentAcked" Type="UDA Ref Use" />
+  <Reference Name="Me.PV3.AlarmMostUrgentAcked" CPName="PenC_AlarmMostUrgentAcked" Type="UDA Ref Use" />
+  <Reference Name="Me.PV4.AlarmMostUrgentAcked" CPName="PenD_AlarmMostUrgentAcked" Type="UDA Ref Use" />
+  <Reference Name="Me.PV2.AlarmMostUrgentInAlarm" CPName="PenB_AlarmMostUrgentInAlarm" Type="UDA Ref Use" />
+  <Reference Name="Me.PV3.AlarmMostUrgentInAlarm" CPName="PenC_AlarmMostUrgentInAlarm" Type="UDA Ref Use" />
+  <Reference Name="Me.PV4.AlarmMostUrgentInAlarm" CPName="PenD_AlarmMostUrgentInAlarm" Type="UDA Ref Use" />
+  <Reference Name="Me.PV2.AlarmMostUrgentMode" CPName="PenB_AlarmMostUrgentMode" Type="UDA Ref Use" />
+  <Reference Name="Me.PV3.AlarmMostUrgentMode" CPName="PenC_AlarmMostUrgentMode" Type="UDA Ref Use" />
+  <Reference Name="Me.PV4.AlarmMostUrgentMode" CPName="PenD_AlarmMostUrgentMode" Type="UDA Ref Use" />
+  <Reference Name="Me.PV2.AlarmMostUrgentSeverity" CPName="PenB_AlarmMostUrgentSeverity" Type="UDA Ref Use" />
+  <Reference Name="Me.PV3.AlarmMostUrgentSeverity" CPName="PenC_AlarmMostUrgentSeverity" Type="UDA Ref Use" />
+  <Reference Name="Me.PV4.AlarmMostUrgentSeverity" CPName="PenD_AlarmMostUrgentSeverity" Type="UDA Ref Use" />
+  <Reference Name="Me.PV.EngUnitsMax" CPName="PenA_RangeOperatingMax" Type="UDA Ref Use" />
+  <Reference Name="Me.PV.EngUnitsMin" CPName="PenA_RangeOperatingMin" Type="UDA Ref Use" />
+  <Reference Name="Me.PV2.EngUnitsMax" CPName="PenB_RangeOperatingMax" Type="UDA Ref Use" />
+  <Reference Name="Me.PV2.EngUnitsMin" CPName="PenB_RangeOperatingMin" Type="UDA Ref Use" />
+  <Reference Name="Me.PV3.EngUnitsMax" CPName="PenC_RangeOperatingMax" Type="UDA Ref Use" />
+  <Reference Name="Me.PV3.EngUnitsMin" CPName="PenC_RangeOperatingMin" Type="UDA Ref Use" />
+  <Reference Name="Me.PV4.EngUnitsMin" CPName="PenD_RangeOperatingMin" Type="UDA Ref Use" />
+  <Reference Name="Me.PV4.EngUnitsMax" CPName="PenD_RangeOperatingMax" Type="UDA Ref Use" />
+  <Reference Name="Me.PV.EngUnits" CPName="PenA_EngUnits" Type="UDA Ref Use" />
+  <Reference Name="Me.PV2.EngUnits" CPName="PenB_EngUnits" Type="UDA Ref Use" />
+  <Reference Name="Me.PV3.EngUnits" CPName="PenC_EngUnits" Type="UDA Ref Use" />
+  <Reference Name="Me.PV4.EngUnits" CPName="PenD_EngUnits" Type="UDA Ref Use" />
+  <Reference Name="Me.PV.AlarmMostUrgentShelved" CPName="PenA_AlarmMostUrgentShelved" Type="UDA Ref Use" />
+  <Reference Name="Me.PV2.AlarmMostUrgentShelved" CPName="PenB_AlarmMostUrgentShelved" Type="UDA Ref Use" />
+  <Reference Name="Me.PV3.AlarmMostUrgentShelved" CPName="PenC_AlarmMostUrgentShelved" Type="UDA Ref Use" />
+  <Reference Name="Me.PV4.AlarmMostUrgentShelved" CPName="PenD_AlarmMostUrgentShelved" Type="UDA Ref Use" />
+</References>

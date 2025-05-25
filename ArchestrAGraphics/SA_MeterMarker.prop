@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 42491000,
+  "VisualElementID": 1445,
+  "GObjectId": 1445,
+  "HelpId": "",
+  "VisualElementName": "SA_MeterMarker",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419854656485,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

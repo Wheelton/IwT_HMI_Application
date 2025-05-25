@@ -1,0 +1,25 @@
+{
+  "GraphicVersion": 42491001,
+  "VisualElementID": 1416,
+  "GObjectId": 1416,
+  "HelpId": "",
+  "VisualElementName": "SA_HVLV_Switch",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419846886893,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [
+    1
+  ],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

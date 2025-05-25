@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 19,
+  "VisualElementID": 1250,
+  "GObjectId": 1250,
+  "HelpId": "",
+  "VisualElementName": "SSTankerTruck",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419800430351,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

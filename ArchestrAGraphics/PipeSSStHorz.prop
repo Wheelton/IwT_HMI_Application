@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 20,
+  "VisualElementID": 1218,
+  "GObjectId": 1218,
+  "HelpId": "",
+  "VisualElementName": "PipeSSStHorz",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419784694319,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

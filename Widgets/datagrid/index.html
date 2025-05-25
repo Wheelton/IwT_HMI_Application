@@ -1,0 +1,98 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="../resources/libs/bootstrap_5_0_2/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="./depends/kendo/css/kendo.common-material.min.css" />
+    <link rel="stylesheet" type="text/css" href="./depends/kendo/css/kendo.material.min.css" />
+    <link rel="stylesheet" type="text/css" href="./depends/kendo/css/kendo.material.mobile.min.css" />
+
+    <link rel="icon" type="image/png" href="favicon.png">
+
+    <link rel="stylesheet" type="text/css" href="./build/build.min.css" />
+    <style rel="stylesheet" type="text/css">
+        body {
+            background-color: transparent;
+            color: black;
+            vertical-align: middle;
+            overflow: hidden;
+            margin:1px 0 0 0;
+        }
+        #gridcontainer {
+            height: 99.5vh;
+        }
+        #grid {
+            height: inherit;
+        }
+    </style>
+
+    <style rel="stylesheet" type="text/css" id="selectedrowstyle">
+        .k-grid tr.k-state-selected, .k-webkit .k-pager-numbers.k-state-expanded .k-current-page .k-link {
+            background-color: gray;
+            color: white;
+        }
+    </style>
+    <style rel="stylesheet" type="text/css" id="rowhoverstyle">
+        .k-grid tr:not(.k-state-selected):hover {
+            background-color: lightgray;
+            color: black;
+        }
+
+        .k-webkit .k-pager-numbers .k-current-page:hover .k-link, .k-webkit .k-pager-wrap .k-pager-numbers li:not(.k-current-page) .k-link:hover {
+            background-color: lightgray;
+        }
+
+        .k-pager-wrap .k-link:hover {
+            color: black;
+        }
+
+    </style>
+    <style rel="stylesheet" type="text/css" id="headerstyle">
+        .k-grid-header .k-header {
+            color: black;
+            background-color: lightgray;
+            border-color: black;
+        }
+        .k-grid .k-header .k-button, .k-header, .k-grid .k-header .k-button:hover {
+            color:black;
+            background-color:lightgray;
+            border-color: transparent;
+        }
+        .k-header.k-grid-toolbar {
+            border-color: black;
+        }
+    </style>
+    <style rel="stylesheet" type="text/css" id="widgetstyle">
+        .k-group {
+            color:black;
+            background-color:white;
+        }
+
+        .k-webkit .k-pager-numbers.k-state-expanded, .k-webkit .k-pager-numbers .k-current-page .k-link {
+            background-color: white;
+        }
+    </style>
+    <title>Datagrid</title>
+  <script>
+    if ( 'serviceWorker' in navigator && window.location.href.toLowerCase().indexOf('file://') < 0) {
+      window.addEventListener( 'load', function () {
+        navigator.serviceWorker.register('sw.js');
+      });
+    }
+  </script>
+</head>
+<body>
+    <div id="gridcontainer" class="container-fluid">
+        <div id="grid">no data</div>
+    </div>
+    <div id="exportNotification" class="toast hide fixed-bottom ml-3" style="color:inherit;background-color:inherit;border-color:inherit;font:inherit" role="alert" aria-live="polite" aria-atomic="true" data-delay="5000">
+        <div class="toast-body" role="alert" aria-live="assertive" aria-atomic="true">Exported data to <i>Export.xlsx</i> in temporary folder</div>
+    </div>
+    <script src="../resources/libs/jquery_3_6_1/dist/jquery.min.js"></script>
+    <script src="../resources/libs/bootstrap_5_0_2/dist/js/bootstrap.min.js"></script>
+    <script src="./depends/kendo/js/jszip.min.js"></script>
+    <script src="./depends/kendo/js/kendo.all.min.js"></script>
+    <!--The bellow lines cannot be removed-->
+    <script src="../resources/apis/proxy.js" cwidget="Datagrid" autoResize="disable"></script>
+    <script src="./build/build.min.js"></script>
+</body>
+</html>

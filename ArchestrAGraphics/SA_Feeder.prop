@@ -1,0 +1,29 @@
+{
+  "GraphicVersion": 42491001,
+  "VisualElementID": 1435,
+  "GObjectId": 1435,
+  "HelpId": "",
+  "VisualElementName": "SA_Feeder",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419852216265,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

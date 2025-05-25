@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 23,
+  "VisualElementID": 923,
+  "GObjectId": 923,
+  "HelpId": "",
+  "VisualElementName": "ClockDigital12Date",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419722158637,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

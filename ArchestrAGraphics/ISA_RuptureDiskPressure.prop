@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 16,
+  "VisualElementID": 1097,
+  "GObjectId": 1097,
+  "HelpId": "",
+  "VisualElementName": "ISA_RuptureDiskPressure",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419758903331,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

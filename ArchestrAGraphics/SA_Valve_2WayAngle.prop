@@ -1,0 +1,28 @@
+{
+  "GraphicVersion": 42491001,
+  "VisualElementID": 1406,
+  "GObjectId": 1406,
+  "HelpId": "",
+  "VisualElementName": "SA_Valve_2WayAngle",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419839965448,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [
+    1,
+    1,
+    1,
+    1
+  ],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

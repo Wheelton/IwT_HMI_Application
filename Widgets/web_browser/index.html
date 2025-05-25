@@ -1,0 +1,172 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="aig-chrome-extension" content="popup-window">
+    <link rel="stylesheet" type="text/css" href="../resources/libs/bootstrap_5_0_2/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="./build/build.min.css" />
+    <title></title>
+    <style>
+
+        .sideBarClass {
+            z-index: 1;
+            transition: 0.5s;
+            position: fixed;
+            overflow: hidden;
+        }
+
+        .bottomContainer {
+            height: 56px;
+            left: 8px;
+            bottom: 8px;
+        }
+
+        .chrome-extension-tips.bottomContent {
+            bottom: 0px;
+            padding-top: 4px;
+            height: 300px;
+            font-size: 20px;
+            line-height: 20px;
+            position: absolute;
+        }
+
+        .chrome-extension-tips.bottomContainer {
+            height: 300px;
+            left: 50%;
+            bottom: 0px;
+            overflow: hidden;
+        }
+
+        .contentBackground {
+            background-color: #F3F4F5;
+        }
+    </style>
+    <script>
+        function isChromeExtensionEnabled() {
+            return window.top && window.top.document && window.top.document.getElementById('AIGChromeExtensionSign');
+        }
+
+        var IsChromeExtensionEnabled = isChromeExtensionEnabled();
+
+        function showHideContent() {
+            var content = document.getElementById("content");
+
+            var className = content.className;
+            content.className = "";
+            content.style.width = "320px";
+            var tipElement = document.getElementById('tips');
+            window.contentNotificationSize = tipElement.getBoundingClientRect().width;
+            window.contentNotificationSize += parseFloat(tipElement.style.marginLeft) + parseFloat(tipElement.style.marginRight);
+            content.className = className;
+
+            if (IsChromeExtensionEnabled) {
+                document.getElementById('tips').remove();
+                document.getElementById('closeBtn').remove();
+
+                content.classList.add('chrome-extension-tips');
+                content.classList.add('bg-msg-container');
+                content.style.display = 'none';
+                document.getElementById('tips2').style.display = '';
+
+                content.style.width = "550px";
+            }
+        }
+
+        window.addEventListener("load", function () { showHideContent(); });
+
+        function popupWindow() {
+            if (window.top && window.top.document && window.top.document.getElementById('AIGChromeExtensionSign')) {
+                window.top.dispatchEvent(new CustomEvent("AIGChromeExtensionOpenSinglePopup", {
+                    detail: {
+                        aigChromeExtensionIndex: document.body.getAttribute('aig-chrome-extension-index')
+                    }
+                }));
+            }
+        }
+
+        function showDetailedBgMsg() {
+            var content = document.getElementById("content");
+            document.getElementById('tips').style.display = 'none';
+
+            content.style.display = '';
+            document.getElementById('tips2').style.display = '';
+            document.getElementById('tips2').style.height = '219px';
+            document.getElementById('closeBtn').style.display = 'none';
+            document.getElementById('minBtn').style.display = '';
+
+            content.style.width = "550px";
+            content.style.height = "219px";
+            content.style.position = "absolute";
+            content.style.left = "8px";
+            content.style.bottom = "8px";
+
+            document.getElementById('reopenExtension').style.display = 'none';
+        }
+
+        function showTips() {
+            content.style.width = "320px";
+            content.style.height = "56px";
+            document.getElementById('tips').style.display = '';
+            document.getElementById('tips2').style.display = 'none';
+            document.getElementById('closeBtn').style.display = '';
+            document.getElementById('minBtn').style.display = 'none';
+        }
+
+        function closeTips() {
+            document.getElementById('content').style.display = 'none';
+        }
+    </script>
+  <script>
+    if ( 'serviceWorker' in navigator && window.location.href.toLowerCase().indexOf('file://') < 0) {
+      window.addEventListener( 'load', function () {
+        navigator.serviceWorker.register('sw.js');
+      });
+    }
+  </script>
+</head>
+<body>
+    <div id="messagebox" style="display:none;  position: absolute; top:50%;left: 0px; margin-top: -10px;text-align :center; "></div>
+    <iframe id='myFrame' frameBorder='0'></iframe>
+
+    <div id="content" class="sideBarClass bottomContainer contentBackground">
+        <svg id="closeBtn" onclick="closeTips()" class="tip-icon" viewBox="0 0 24 24">
+            <path fill="currentColor" d="M19,6.41L17.59,5L12,10.59L6.41,5L5,6.41L10.59,12L5,17.59L6.41,19L12,13.41L17.59,19L19,17.59L13.41,12L19,6.41Z" />
+        </svg>
+        <svg id="minBtn" onclick="showTips()" class="tip-icon" style="display:none;" viewBox="0 0 24 24">
+            <path fill="currentColor" d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z" />
+        </svg>
+        <div id="tips">
+            <div class="k-card-body" style="text-align: left;">
+                <span class="k-button k-flat" style="padding:0px;border:0px;" onclick="showDetailedBgMsg()">CLICK HERE</span>
+                <span class="k-card-subtitle">If you are unable to view this page.</span>
+            </div>
+        </div>
+        <div id="tips2" class="chrome-extension-tips bottomContent" style="width: 550px; height:300px; display: none;">
+            <div id="downloadExtension" class="k-card-body">
+                <span class="k-button k-flat">
+                    <a href="https://chrome.google.com/webstore/detail/aig-chrome-extension/lmmojieoidfenlfdpchanhhgmiibkono" target="_blank"  rel="noopener noreferrer">DOWNLOAD</a>
+                </span>
+                <span class="k-button k-flat">LEARN MORE</span><br />
+                <span class="k-card-subtitle">Configure AVEVA Industrial Graphic Chrome Extension for best experience.</span>
+            </div>
+
+            <div id="reopenExtension" class="k-card-body">
+                <span class="k-button k-flat" onclick="popupWindow()">REOPEN LINK</span><br />
+                <span class="k-card-subtitle">Already configured the Extension? Refresh the page or click the button to reopen</span>
+            </div>
+
+            <div id="openInNewTab" class="k-card-body">
+                <span class="k-button k-flat "><a id="tips_link" href="javascript:void(0)" target="_blank">OPEN LINK IN NEW TAB</a></span><br />
+                <span class="k-card-subtitle">No download or installation required. </span>
+            </div>
+        </div>
+    </div>
+
+    <!--The bellow lines cannot be removed-->
+    <script src="../resources/libs/jquery_3_6_1/dist/jquery.min.js"></script>
+    <script src="../resources/libs/bootstrap_5_0_2/dist/js/bootstrap.min.js"></script>
+    <script src="../resources/libs/eventemitter_5_1_0/eventEmitter.js"></script>
+    <script src="../resources/apis/proxy.js" cwidget="Web_Browser" autoResize="disable"></script>
+    <script src="../resources/apis/MASvrHelper.js"></script>
+    <script src="./build/build.min.js"></script>
+</body>
+</html>

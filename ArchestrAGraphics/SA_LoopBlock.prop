@@ -1,0 +1,26 @@
+{
+  "GraphicVersion": 42491001,
+  "VisualElementID": 1433,
+  "GObjectId": 1433,
+  "HelpId": "",
+  "VisualElementName": "SA_LoopBlock",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419851746014,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [
+    1,
+    1
+  ],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

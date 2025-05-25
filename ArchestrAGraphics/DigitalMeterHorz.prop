@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 35,
+  "VisualElementID": 944,
+  "GObjectId": 944,
+  "HelpId": "",
+  "VisualElementName": "DigitalMeterHorz",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419725892706,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

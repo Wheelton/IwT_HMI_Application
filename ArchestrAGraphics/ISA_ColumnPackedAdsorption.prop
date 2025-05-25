@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 11,
+  "VisualElementID": 1025,
+  "GObjectId": 1025,
+  "HelpId": "",
+  "VisualElementName": "ISA_ColumnPackedAdsorption",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419744049505,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

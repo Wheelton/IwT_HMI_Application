@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 17,
+  "VisualElementID": 1071,
+  "GObjectId": 1071,
+  "HelpId": "",
+  "VisualElementName": "ISA_Valve2WayFailClosed",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419753603910,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

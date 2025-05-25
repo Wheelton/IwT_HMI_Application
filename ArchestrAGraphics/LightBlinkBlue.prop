@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 35,
+  "VisualElementID": 1150,
+  "GObjectId": 1150,
+  "HelpId": "",
+  "VisualElementName": "LightBlinkBlue",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419769759597,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

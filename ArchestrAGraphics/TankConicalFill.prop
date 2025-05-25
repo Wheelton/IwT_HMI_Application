@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 47,
+  "VisualElementID": 1274,
+  "GObjectId": 1274,
+  "HelpId": "",
+  "VisualElementName": "TankConicalFill",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419805514471,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

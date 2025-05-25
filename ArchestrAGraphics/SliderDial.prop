@@ -1,0 +1,25 @@
+{
+  "GraphicVersion": 41,
+  "VisualElementID": 1233,
+  "GObjectId": 1233,
+  "HelpId": "",
+  "VisualElementName": "SliderDial",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419795624801,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [
+    1
+  ],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 35,
+  "VisualElementID": 1149,
+  "GObjectId": 1149,
+  "HelpId": "",
+  "VisualElementName": "KnobSwitch",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419769548921,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

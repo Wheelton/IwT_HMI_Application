@@ -1,0 +1,12 @@
+    1 MAIN
+    2 Logowanie
+    6 Zalogowanie
+    7 MAIN_ADMIN
+    8 MAIN_KIER
+    9 MAIN_OPER
+   10 FLOW
+   11 SIDE_ADMIN
+   12 SIDE_KIER
+   13 SIDE_OPER
+   14 NEW_FLOW
+   15 PARAMS_SETTER

@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 10,
+  "VisualElementID": 996,
+  "GObjectId": 996,
+  "HelpId": "",
+  "VisualElementName": "ISA_PrecipitatorElectrostatic",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419737907181,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

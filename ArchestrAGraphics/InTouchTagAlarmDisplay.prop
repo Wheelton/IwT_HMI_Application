@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 210,
+  "VisualElementID": 962,
+  "GObjectId": 962,
+  "HelpId": "",
+  "VisualElementName": "InTouchTagAlarmDisplay",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419730683417,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

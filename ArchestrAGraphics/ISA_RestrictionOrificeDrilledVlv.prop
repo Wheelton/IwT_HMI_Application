@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 15,
+  "VisualElementID": 1002,
+  "GObjectId": 1002,
+  "HelpId": "",
+  "VisualElementName": "ISA_RestrictionOrificeDrilledVlv",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419739133291,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

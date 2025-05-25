@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 88,
+  "VisualElementID": 1281,
+  "GObjectId": 1281,
+  "HelpId": "",
+  "VisualElementName": "TankVertFill",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419807051423,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 18,
+  "VisualElementID": 1031,
+  "GObjectId": 1031,
+  "HelpId": "",
+  "VisualElementName": "ISA_ExchangerHeatAlt",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419745314368,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

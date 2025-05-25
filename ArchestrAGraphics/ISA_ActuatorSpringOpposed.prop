@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 15,
+  "VisualElementID": 1081,
+  "GObjectId": 1081,
+  "HelpId": "",
+  "VisualElementName": "ISA_ActuatorSpringOpposed",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419755629064,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

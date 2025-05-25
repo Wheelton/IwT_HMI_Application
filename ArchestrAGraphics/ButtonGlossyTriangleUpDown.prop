@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 14,
+  "VisualElementID": 869,
+  "GObjectId": 869,
+  "HelpId": "",
+  "VisualElementName": "ButtonGlossyTriangleUpDown",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419691483183,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 48,
+  "VisualElementID": 1261,
+  "GObjectId": 1261,
+  "HelpId": "",
+  "VisualElementName": "StackLightSupportGreen",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419802783918,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

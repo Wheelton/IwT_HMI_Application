@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 24,
+  "VisualElementID": 1288,
+  "GObjectId": 1288,
+  "HelpId": "",
+  "VisualElementName": "TwoButtonLabelSwitch",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419808534673,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

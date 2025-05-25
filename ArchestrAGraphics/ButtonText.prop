@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 19,
+  "VisualElementID": 918,
+  "GObjectId": 918,
+  "HelpId": "",
+  "VisualElementName": "ButtonText",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419721218054,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

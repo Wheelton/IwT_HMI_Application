@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 45,
+  "VisualElementID": 1267,
+  "GObjectId": 1267,
+  "HelpId": "",
+  "VisualElementName": "Switch2PositionBlack",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419804029981,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

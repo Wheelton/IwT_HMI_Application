@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 30,
+  "VisualElementID": 823,
+  "GObjectId": 823,
+  "HelpId": "",
+  "VisualElementName": "AnalogMeterGauge",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419669550425,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "Name": "Application",
+    "DisplayName": "Application",
+    "Id": 2,
+    "Index": 0,
+    "ParentId": 1,
+    "ImageKey": "ApplicationnScript",
+    "ScriptType": 0,
+    "WindowParentID": 0
+  },
+  {
+    "Name": "Key",
+    "DisplayName": "Key",
+    "Id": 3,
+    "Index": 0,
+    "ParentId": 1,
+    "ImageKey": "Keyswitchscript",
+    "ScriptType": 0,
+    "WindowParentID": 0
+  },
+  {
+    "Name": "Condition",
+    "DisplayName": "Condition",
+    "Id": 4,
+    "Index": 0,
+    "ParentId": 1,
+    "ImageKey": "Conditionalscript",
+    "ScriptType": 0,
+    "WindowParentID": 0
+  },
+  {
+    "Name": "Data change",
+    "DisplayName": "Data change ( 5 )",
+    "Id": 5,
+    "Index": 0,
+    "ParentId": 1,
+    "ImageKey": "Datascript",
+    "ScriptType": 0,
+    "WindowParentID": 0
+  },
+  {
+    "Name": "QuickFunctions",
+    "DisplayName": "QuickFunctions",
+    "Id": 6,
+    "Index": 0,
+    "ParentId": 1,
+    "ImageKey": "QuickScript",
+    "ScriptType": 0,
+    "WindowParentID": 0
+  },
+  {
+    "Name": "ActiveX event",
+    "DisplayName": "ActiveX event",
+    "Id": 7,
+    "Index": 0,
+    "ParentId": 1,
+    "ImageKey": "ActiveXscript",
+    "ScriptType": 0,
+    "WindowParentID": 0
+  },
+  {
+    "Name": "loger_user_pass",
+    "DisplayName": "loger_user_pass",
+    "Id": 8,
+    "Index": 1,
+    "ParentId": 5,
+    "ImageKey": "Datascript",
+    "ScriptType": 5,
+    "WindowParentID": 6
+  },
+  {
+    "Name": "M752",
+    "DisplayName": "M752",
+    "Id": 10,
+    "Index": 2,
+    "ParentId": 5,
+    "ImageKey": "Datascript",
+    "ScriptType": 5,
+    "WindowParentID": 6
+  },
+  {
+    "Name": "LoginClicked",
+    "DisplayName": "LoginClicked",
+    "Id": 11,
+    "Index": 3,
+    "ParentId": 5,
+    "ImageKey": "Datascript",
+    "ScriptType": 5,
+    "WindowParentID": 6
+  },
+  {
+    "Name": "LogoutClicked",
+    "DisplayName": "LogoutClicked",
+    "Id": 12,
+    "Index": 4,
+    "ParentId": 5,
+    "ImageKey": "Datascript",
+    "ScriptType": 5,
+    "WindowParentID": 6
+  },
+  {
+    "Name": "FlowButton",
+    "DisplayName": "FlowButton",
+    "Id": 13,
+    "Index": 5,
+    "ParentId": 5,
+    "ImageKey": "Datascript",
+    "ScriptType": 5,
+    "WindowParentID": 6
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 42,
+  "VisualElementID": 925,
+  "GObjectId": 925,
+  "HelpId": "",
+  "VisualElementName": "ClockNautical",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419722506105,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" type="text/css" href="./build/build.min.css" />
+  <title></title>
+  <script>
+    if ( 'serviceWorker' in navigator && window.location.href.toLowerCase().indexOf('file://') < 0) {
+      window.addEventListener( 'load', function () {
+        navigator.serviceWorker.register('sw.js');
+      });
+    }
+  </script>
+</head>
+
+<body>
+  <!--The bellow lines cannot be removed-->
+  <script src="../resources/apis/proxy.js" cwidget="Map_App" autoResize="disable"></script>
+  <script src="../resources/apis/MASvrHelper.js"></script>
+  <script src="./build/build.min.js"></script>
+</body>
+
+</html>

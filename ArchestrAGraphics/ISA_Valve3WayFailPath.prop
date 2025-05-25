@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 18,
+  "VisualElementID": 1074,
+  "GObjectId": 1074,
+  "HelpId": "",
+  "VisualElementName": "ISA_Valve3WayFailPath",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133926419754204141,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}
